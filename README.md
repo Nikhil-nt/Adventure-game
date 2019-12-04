@@ -6,3 +6,6 @@ This code is written for a text based adventure game.This is a short game with a
 * The game also includes some random factors, so that it's a little different each time.
 * The game has conditions for winning and losing.
 * When the game is over, it asks if the player wants to play again.
+
+# Requirements
+Python 3.6 and above
